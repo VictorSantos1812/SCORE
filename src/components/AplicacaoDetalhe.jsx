@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 
 const maxValues = {
   stack: 16,
-  cicd: 16,
+  'ci/cd': 16,
   iac: 16,
   deployment: 16,
   custo: 16,

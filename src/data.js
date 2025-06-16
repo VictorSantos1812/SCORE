@@ -2,7 +2,7 @@ export const aplicacoes = [
   {
     nome: 'RH',
     stack: 5,
-    cicd: 5,
+    'ci/cd': 5,
     iac: 5,
     deployment: 5,
     custo: 5,
@@ -16,7 +16,7 @@ export const aplicacoes = [
   {
     nome: 'B2B',
     stack: 16,
-    cicd: 16,
+    'ci/cd': 16,
     iac: 8,
     deployment: 8,
     custo: 16,
@@ -30,7 +30,7 @@ export const aplicacoes = [
   {
     nome: 'Services',
     stack: 16,
-    cicd: 8,
+    'ci/cd': 8,
     iac: 8,
     deployment: 8,
     custo: 8,
